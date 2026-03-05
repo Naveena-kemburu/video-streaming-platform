@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "title": "Big Buck Bunny",
+    "description": "Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore!",
+    "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+    "duration": 596,
+    "category": "Animation",
+    "sources": [
+      {
+        "src": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "type": "application/x-mpegURL"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Elephant Dream",
+    "description": "The first Blender Open Movie from 2006. Two strange characters explore a capricious and seemingly infinite machine.",
+    "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+    "duration": 653,
+    "category": "Animation",
+    "sources": [
+      {
+        "src": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "type": "application/x-mpegURL"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Sintel",
+    "description": "A lonely young woman, Sintel, helps and befriends a dragon, whom she calls Scales. But when he is kidnapped by an adult dragon, Sintel decides to embark on a dangerous quest to find her lost friend Scales.",
+    "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+    "duration": 888,
+    "category": "Animation",
+    "sources": [
+      {
+        "src": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "type": "application/x-mpegURL"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Tears of Steel",
+    "description": "Tears of Steel was realized with crowd-funding by users of the open source 3D creation tool Blender. Target was to improve and test a complete open and free pipeline for visual effects in film.",
+    "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+    "duration": 734,
+    "category": "Sci-Fi",
+    "sources": [
+      {
+        "src": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "type": "application/x-mpegURL"
+      }
+    ]
+  }
+]
